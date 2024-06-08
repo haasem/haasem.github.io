@@ -1,6 +1,6 @@
+```markdown
 # Consultant Profile
 Michael Haase - [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com) - +49 151 40173885
-
 
 ## Introduction
 
@@ -12,20 +12,18 @@ Available immediately from 01.06.2024 - digital remote working is preferred, wit
 
 My hourly rate is 95€ per hour - traveling expenses against invoice.
 
-
 ## Short Overview
 
-Name: Michael Haase
-Profession: Salesforce Solution Architect
-University Degree: Business Administration (Bachelor)
-Languages: 
+- **Name:** Michael Haase
+- **Profession:** Salesforce Solution Architect
+- **University Degree:** Business Administration (Bachelor)
+- **Languages:** 
   - German (native)
   - English (fluent)
   - Russian (fluent)
-Place of living: Panama
-Telefon/Whatsapp: +49 151 40173885
-Email: [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
-
+- **Place of living:** Panama
+- **Telefon/Whatsapp:** +49 151 40173885
+- **Email:** [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
 
 ## Key Competencies
 
@@ -42,11 +40,9 @@ Email: [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsultin
 - Mentor and coach
 - Consultancy in German and English
 
-
 ## Video Presentation
 
 The key aspects of my work
-
 
 ## Brief Profile Description
 
@@ -65,7 +61,6 @@ The key aspects of my work
   - Implementation of DevOps processes with Copado and Github
   - Solution testing
 
-
 ## Certifications
 
 - Salesforce Platform App Builder
@@ -74,13 +69,11 @@ The key aspects of my work
 - Salesforce Advanced Administrator
 - Copado DevOps Metadata Pipeline Fundamentals I
 
-
 ## Further Education
 
 - Various Trails modules and projects on Trailhead.com in the areas of Sales Cloud, Service Cloud, Field Service Lightning, APEX and Lightning Web Components, Reports and Dashboards and others
 - Coaching training at the Haufe Akademie
 - Udemy courses: Python, machine learning, solution architecture, Javascript
-
 
 ## Qualifications
 
@@ -143,7 +136,6 @@ The key aspects of my work
 | Jira                        | 5     | K     |
 | ServiceNow                  | 10    | K     |
 
-
 ## Professional Experiences
 
 - **Michael Haase Consulting - Freelancer (2021 - current)**
@@ -151,7 +143,6 @@ The key aspects of my work
 - **BCS Broker Credit Service - Salesforce Solution Architect (2013 - 2015)**
 - **OAO Otkritie Bank - Head of Client Relationship Management (2010 - 2013)**
 - **Investment banking/Proprietary Trading/Operations (1997 - 2010)**
-
 
 ## Project History
 
