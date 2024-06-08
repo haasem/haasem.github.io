@@ -1,4 +1,3 @@
-```markdown
 # Consultant Profile
 Michael Haase - [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com) - +49 151 40173885
 
