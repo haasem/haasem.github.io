@@ -16,16 +16,16 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 
 ## Short Overview
 
-- **Name:** Michael Haase
-- **Profession:** Salesforce Solution Architect
-- **University Degree:** Business Administration (Bachelor)
-- **Languages:** 
+Name: Michael Haase
+Profession: Salesforce Solution Architect
+University Degree: Business Administration (Bachelor)
+Languages: 
   - German (native)
   - English (fluent)
   - Russian (fluent)
-- **Place of living:** Panama
-- **Telefon/Whatsapp:** +49 151 40173885
-- **Email:** [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
+Place of living: Panama
+Telefon/Whatsapp: +49 151 40173885
+Email: [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
 
 ## Key Competencies
 
