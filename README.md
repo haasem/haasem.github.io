@@ -45,7 +45,7 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 
 ## Video Presentation
 
-** [The key aspects of my work] (https://bit.ly/key-aspects-of-my-work)
+[The key aspects of my work](https://bit.ly/key-aspects-of-my-work)
 
 
 ## Brief Profile Description
