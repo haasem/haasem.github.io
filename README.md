@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/haasem/haasem/.png?raw=true" alt="Michael Haase"/>
+</p>
+
 # Consultant Profile
 Michael Haase - [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com) - +49 151 40173885
 
