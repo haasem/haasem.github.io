@@ -173,5 +173,66 @@ The key aspects of my work
   - **Description:** As a technical consultant, Michael Haase supported the implementation of Copado to optimize the release management process. He integrated GitHub for version control to enable Continuous integration and delivery and used automation and orchestration features to reduce manual tasks and improve collaboration within the development team.
   - **Technologies used:** Salesforce, Copado, Github, Google Diagrams
 
+## Professional Experiences
+
 - **Project: Approval process for sales discounts**
-  - **Task(s):** Implementing an automated process for
+  - **Task(s):** Implementing an automated process for approving sales discounts in the Sales Cloud
+  - **Description:** Michael Haase designed and implemented an approval process for sales discounts in the Salesforce Sales Cloud. The process included multiple levels of approval based on the discount percentage and other criteria. He used the Flow Builder to create automated workflows, ensuring that the approval process was efficient and error-free.
+  - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Approval Processes, Schema Builder
+
+**03/2013 - 04/2015 BCS Broker Credit Service**
+
+- **Project: Salesforce Implementation**
+  - **Task(s):** Implementation of Salesforce for the sales and service departments
+  - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing training to the users.
+  - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
+
+- **Project: Integration with External Systems**
+  - **Task(s):** Integration of Salesforce with external systems using APIs
+  - **Description:** Michael Haase integrated Salesforce with several external systems, including the company's ERP and marketing automation tools. He used Salesforce's API capabilities to ensure seamless data flow between the systems, improving data accuracy and operational efficiency.
+  - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, APIs, Integration Tools, Schema Builder
+
+**09/2010 - 02/2013 OAO Otkritie Bank**
+
+- **Project: CRM Implementation**
+  - **Task(s):** Implementation of a CRM system for managing client relationships
+  - **Description:** Michael Haase led the implementation of a CRM system at OAO Otkritie Bank. His responsibilities included requirement gathering, solution design, implementation, and user training. The CRM system improved the bank's ability to manage client relationships and streamline operations.
+  - **Technologies used:** Salesforce Sales Cloud, Data Migration Tools, Schema Builder, Flow Builder
+
+- **Project: Business Process Optimization**
+  - **Task(s):** Optimization of business processes using Salesforce
+  - **Description:** Michael Haase optimized various business processes at OAO Otkritie Bank using Salesforce. He designed and implemented workflows and automation to improve efficiency and reduce manual tasks.
+  - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Schema Builder
+
+**06/1997 - 08/2010 Investment Banking/Proprietary Trading/Operations**
+
+- **Project: Implementation of Trading Systems**
+  - **Task(s):** Implementation of trading systems for proprietary trading and operations
+  - **Description:** Michael Haase was involved in the implementation of trading systems for proprietary trading and operations. He worked on designing and implementing systems that improved trading efficiency and operational accuracy.
+  - **Technologies used:** Trading Systems, Data Integration Tools, Workflow Automation
+
+## Education
+
+- **Bachelor of Business Administration**
+
+## Skills
+
+- Salesforce Sales Cloud
+- Salesforce Service Cloud
+- Salesforce Field Service Lightning
+- Salesforce Flow Builder
+- APEX Programming
+- DevOps (Copado, GitHub)
+- Agile Project Management (SCRUM)
+- Data Migration
+- Integration with External Systems
+- Business Process Optimization
+- Functional and Technical Solution Design
+
+## Contact
+
+- **Email:** [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
+- **Phone/Whatsapp:** +49 151 40173885
+- **LinkedIn:** [Michael Haase](https://www.linkedin.com/in/michael-haase-consulting/)
+- **Website:** [www.michaelhaaseconsulting.com](http://www.michaelhaaseconsulting.com)
+
