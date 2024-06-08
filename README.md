@@ -93,8 +93,8 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 | Real Estate                 | 1     | K     |
 | Banking and investment banking | 9   | M     |
 | Automotive                  | 2     | A     |
+| **Project activities**      |       |       |
 
-**Project activities**
 
 | Activity                    | Years | Grade |
 |-----------------------------|-------|-------|
