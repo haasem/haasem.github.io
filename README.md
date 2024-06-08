@@ -237,5 +237,5 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 - **Email:** [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
 - **Phone/Whatsapp:** +49 151 40173885
 - **LinkedIn:** [Michael Haase](https://www.linkedin.com/in/michael-haase-consulting/)
-- **Website:** [www.michaelhaaseconsulting.com](http://www.michaelhaaseconsulting.com)
+- **Website:** [www.michaelhaaseconsulting.com](https://haasem.github.io/)
 
