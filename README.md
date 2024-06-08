@@ -163,7 +163,7 @@ The key aspects of my work
 
 - **Project: Standard Quotes Integration with SAP CPI/CPQ for Service Departments**
   - **Task(s):** Creation of the functional specification and technical architecture, sub-project management, realization, testing, QA, business process modeling, interface planning, and partial implementation of SAP CPI
-  - **Description:** As a solution architect, Michael Haase implemented an end-to-end solution for creating and tracking service offers in Salesforce, while the operational processing takes place in SAP CPQ. His tasks included developing the interface to SAP, automating the creation of quotations and opportunities and ensuring transparency throughout the entire after-sales process.
+  - **Description:** As a solution architect, Michael Haase implemented an end-to-end solution for creating and tracking service offers in Salesforce, while the operational processing takes place in SAP CPQ. His tasks included developing the interface to SAP, automating the creation of quotations and opportunities, and ensuring transparency throughout the entire after-sales process.
   - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Schema Builder, Flow Builder, Figma Boards
 
 - **Project: Implementation Enterprise Territory Management**
@@ -171,7 +171,7 @@ The key aspects of my work
   - **Description:** Michael Haase led the implementation of Enterprise Territory Management as Solution Architect. The aim was to control the visibility of accounts, cases, and opportunities and to minimize the number of existing account sharing rules (>300). The aim was also to prepare the ETM for forecasting the business lines. Together with the stakeholders of the business units, he defined the go-to-market model, implemented ETM for sales and service territories, and carried out a comprehensive restructuring of the role hierarchy. He also implemented a complex logic for assigning opportunities to territories with the help of the Flow Builder.
   - **Technologies used:** Salesforce Sales Cloud, Enterprise Territory Management, Roll hierarchy, Sharing Rules, Flow Builder, Figma Boards, Google Diagrams
 
-- **Project: Implementation of DevOps processes and deployment pipeline with the help of Copado and Github**
+- **Project: Implementation of DevOps processes and deployment pipeline with the help of Copado and GitHub**
   - **Task(s):** Installing Copado, configuring GitHub and integrating it with Copado, configuring the deployment pipeline, defining and implementing DevOps processes
   - **Description:** As a technical consultant, Michael Haase supported the implementation of Copado to optimize the release management process. He integrated GitHub for version control to enable Continuous integration and delivery and used automation and orchestration features to reduce manual tasks and improve collaboration within the development team.
   - **Technologies used:** Salesforce, Copado, Github, Google Diagrams
@@ -180,14 +180,14 @@ The key aspects of my work
 
 - **Project: Approval process for sales discounts**
   - **Task(s):** Implementing an automated process for approving sales discounts in the Sales Cloud
-  - **Description:** Michael Haase designed and implemented an approval process for sales discounts in the Salesforce Sales Cloud. The process included multiple levels of approval based on the discount percentage and other criteria. He used the Flow Builder to create automated workflows, ensuring that the approval process was efficient and error-free.
+  - **Description:** Michael Haase designed and implemented an approval process for sales discounts in the Salesforce Sales Cloud. The process included multiple levels of approval based on the discount percentage and other criteria. He used the Flow Builder to create automated workflows, ensuring the approval process was efficient and error-free.
   - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Approval Processes, Schema Builder
 
 **03/2013 - 04/2015 BCS Broker Credit Service**
 
 - **Project: Salesforce Implementation**
   - **Task(s):** Implementation of Salesforce for the sales and service departments
-  - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing training to the users.
+  - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing user training.
   - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
 
 - **Project: Integration with External Systems**
