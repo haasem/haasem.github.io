@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://haasem.github.io/IMG_8343.JPG?raw=true" alt="Michael Haase" style="width:200px;"/>
 </p>
 
