@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/haasem/haasem/IMG_8343.JPG?raw=true" alt="Michael Haase"/>
+  <img src="https://haasem.github.io/IMG_8343.JPG?raw=true" alt="Michael Haase"/>
 </p>
 
 # Consultant Profile
