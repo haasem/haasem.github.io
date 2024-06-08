@@ -39,13 +39,14 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 - Able to look at problems from different perspectives
 - Precise communicator
 - Value-driven
-- Sustainable, maintenance-oriented and performance-optimized developments
+- Sustainable, maintenance-oriented, and performance-optimized developments
 - Mentor and coach
 - Consultancy in German and English
 
 ## Video Presentation
 
-The key aspects of my work
+** [The key aspects of my work] (https://bit.ly/key-aspects-of-my-work)
+
 
 ## Brief Profile Description
 
@@ -74,7 +75,7 @@ The key aspects of my work
 
 ## Further Education
 
-- Various Trails modules and projects on Trailhead.com in the areas of Sales Cloud, Service Cloud, Field Service Lightning, APEX and Lightning Web Components, Reports and Dashboards and others
+- Various Trails modules and projects on Trailhead.com in the areas of Sales Cloud, Service Cloud, Field Service Lightning, APEX and Lightning Web Components, Reports and Dashboards, and others
 - Coaching training at the Haufe Akademie
 - Udemy courses: Python, machine learning, solution architecture, Javascript
 
