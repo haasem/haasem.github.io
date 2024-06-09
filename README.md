@@ -172,18 +172,6 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
   - **Description:** Michael Haase designed and implemented an approval process for sales discounts in the Salesforce Sales Cloud. The process included multiple levels of approval based on the discount percentage and other criteria. He used the Flow Builder to create automated workflows, ensuring the approval process was efficient and error-free.
   - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Approval Processes, Schema Builder
 
-
-
-
-
-
-**03/2013 - 04/2015 BCS Broker Credit Service**
-
-- **Project: Salesforce Implementation**
-  - **Task(s):** Implementation of Salesforce for the sales and service departments
-  - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing user training.
-  - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
-
 - **Project: Integration with External Systems**
   - **Task(s):** Integration of Salesforce with external systems using APIs
   - **Description:** Michael Haase integrated Salesforce with several external systems, including the company's ERP and marketing automation tools. He used Salesforce's API capabilities to ensure seamless data flow between the systems, improving data accuracy and operational efficiency.
@@ -195,6 +183,12 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 Another part of the project was the creation of data snapshots at certain points in the sales process to be able to make comparisons between the plan and the actual result at a later date. To this end, he developed reports and dashboards and made them available to the relevant user groups via corresponding visibility rules.**
  - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Organization Wide Defaults, Sharing Rules, Lightning Record Pages, Reports, Dashboards, Google Diagrams
 
+- **Project: Implementation Marketing Cloud**
+ - **Task(s):** Requirements analysis, creation of solution design, development, QA, testing, data migration
+ - **Description:** In his role as Solution Architect, Michael Haase implemented an application to automatically generate opportunities based on information about the customer's installed machine base.
+He recorded the requirements of the stakeholders and developed the technical solution design, which he then implemented. 
+This enabled the sales manager to identify and generate new opportunities based on machine models, age, and specific features of the installed base and assign them to the responsible sales employees in the sales regions.
+ - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Salesforce Inspektor, Reports, Dashboards, Sharing Rules
 
 
 
@@ -206,6 +200,13 @@ Another part of the project was the creation of data snapshots at certain points
 
 
 
+
+**03/2013 - 04/2015 BCS Broker Credit Service**
+
+- **Project: Salesforce Implementation**
+  - **Task(s):** Implementation of Salesforce for the sales and service departments
+  - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing user training.
+  - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
 
 **09/2010 - 02/2013 OAO Otkritie Bank**
 
@@ -224,16 +225,7 @@ Another part of the project was the creation of data snapshots at certain points
 
 
 
-Project:
-Implementation Marketing Cloud
-Task(s):
-Requirements analysis, creation of solution design, development, QA, testing, data migration
-Description:
-In his role as Solution Architect, Michael Haase implemented an application to automatically generate opportunities based on information about the customer's installed machine base.
-He recorded the requirements of the stakeholders and developed the technical solution design, which he then implemented. 
-This enabled the sales manager to identify and generate new opportunities based on machine models, age, and specific features of the installed base and assign them to the responsible sales employees in the sales regions.
-Technologies used:
-Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Salesforce Inspektor, Reports, Dashboards, Sharing Rules
+
 
 
 
