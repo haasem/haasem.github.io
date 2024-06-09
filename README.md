@@ -172,6 +172,11 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
   - **Description:** Michael Haase designed and implemented an approval process for sales discounts in the Salesforce Sales Cloud. The process included multiple levels of approval based on the discount percentage and other criteria. He used the Flow Builder to create automated workflows, ensuring the approval process was efficient and error-free.
   - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Approval Processes, Schema Builder
 
+
+
+
+
+
 **03/2013 - 04/2015 BCS Broker Credit Service**
 
 - **Project: Salesforce Implementation**
@@ -196,96 +201,12 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
   - **Description:** Michael Haase optimized various business processes at OAO Otkritie Bank using Salesforce. He designed and implemented workflows and automation to improve efficiency and reduce manual tasks.
   - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Schema Builder
 
-**06/1997 - 08/2010 Investment Banking/Proprietary Trading/Operations**
-
-- **Project: Implementation of Trading Systems**
-  - **Task(s):** Implementation of trading systems for proprietary trading and operations
-  - **Description:** Michael Haase was involved in the implementation of trading systems for proprietary trading and operations. He worked on designing and implementing systems that improved trading efficiency and operational accuracy.
-  - **Technologies used:** Trading Systems, Data Integration Tools, Workflow Automation
-
-05/2015 - today
-Koenig & Bauer AG
-Project:
-Improvement of Field Service Lightning functionality
-Task(s):
-Sub-project management, technical and IT conception, realization, testing, QA, business process modeling
-Description:
-In the project at Koenig & Bauer, Michael Haase played a key role in the improvement of the Field Service Lightning functionality in the role of Solution Architect. His tasks included the complete overhaul of the time management process: time entry by field service technicians via the FSL Mobile App, review and approval of time entries by project engineers, service managers, and the back office, and data transfer to SAP. Michael developed a solution to automate time entries and approvals based on new work schedules and worked on the interface to SAP.
-Technologies used:
-Salesforce Field Service Lightning, Salesforce Service Cloud, Salesforce Flow Builder, Mobile Flows, Approval Processes, Data Modelling, Field Service Lightning App, Lightning App Builder, APEX
-
-
-
-
-Project:
-Visit Report Interview Flow
-Task(s):
-Sub-project management, technical and IT design, implementation, testing, QA, business process modeling
-Description:
-In his role as Technical Consultant at Koenig & Bauer, Michael Haase supported the introduction of new internal compliance requirements. The aim was to avoid sensitive data in visit reports. He optimized the Salesforce data model and carried out the necessary data migrations.
-Technologies used:
-Salesforce Sales Cloud, Schema Builder, Excel Connector, Salesforce Inspector, Org Wide Defaults, Sharing Rules, Restriction Rules
-
-
-
-
-Project:
-Standard Quotes Integration with SAP CPI/CPQ for Service Departments
-Task(s):
-Creation of the functional specification and technical architecture, sub-project management, realization, testing, QA, business process modeling, interface planning, and partial implementation of SAP CPI
-Description:
-As a solution architect, Michael Haase implemented an end-to-end solution for creating and tracking service offers in Salesforce, while the operational processing takes place in SAP CPQ. His tasks included developing the interface to SAP, automating the creation of quotations and opportunities and ensuring transparency throughout the entire after-sales process.
-Technologies used:
-Salesforce Sales Cloud, Salesforce Service Cloud, Schema Builder, Flow Builder, Figma Boards
-
-
-
-
-Project:
-Implementation Enterprise Territory Management
-Task(s):
-Implementation of Enterprise Territory Management as system optimization and preparation for forecasting
-Description:
-Michael Haase led the implementation of Enterprise Territory Management as Solution Architect. The aim was to control the visibility of accounts, cases, and opportunities and to minimize the number of existing account sharing rules (>300). The aim was also to prepare the ETM for forecasting the business lines. Together with the stakeholders of the business units, he defined the go-to-market model, implemented ETM for sales and service territories, and carried out a comprehensive restructuring of the role hierarchy. He also implemented a complex logic for assigning opportunities to territories with the help of the Flow Builder.
-Technologies used:
-Salesforce Sales Cloud, Enterprise Territory Management, Roll hierarchy, Sharing Rules, Flow Builder, Figma Boards, Google Diagrams
-
-
-
-
-Project:
-Implementation of DevOps processes and deployment pipeline with the help of Copado and Github
-Task(s):
-Installing Copado, configuring GitHub and integrating it with Copado, configuring the deployment pipeline, defining and implementing DevOps processes
-Description:
-As a technical consultant, Michael Haase supported the implementation of Copado to optimize the release management process. He integrated GitHub for version control to enable Continuous integration and delivery and used automation and orchestration features to reduce manual tasks and improve collaboration within the development team.
-Technologies used:
-Salesforce, Copado, Github, Google Diagrams
-
-
-
-
-Project:
-Approval process for sales discounts
-Task(s):
-Implementing an automated process for approving sales discounts, project management, data migration, QA, testing
-Description:
-As a solution architect, Michael Haase implemented a new approval process for sales discounts. He recorded the technical process requirements of the specialist departments and developed the architecture to map the process in Salesforce. This now ensures that discount limits for different machine models can be maintained independently by the responsible employees and that approval levels are triggered correctly. It also ensures that the approval processes are routed to the correct approvers based on sales regions and processed under company guidelines. The processing time for such approvals has been improved by 70% as a result.
-Technologies used:
-Salesforce Sales Cloud, Cvent, Schema Builder (data model), Salesforce Inspektor, Campaigns
-
-
-
-
-Project:
-Application for sales planning
-Task(s):
-Creation of an application to generate plan opportunities (outside the standard opportunity object) based on machine configurations of the external system 'SPM' (product configurator), project management, creation of solution architecture, development, QA, testing, data migration
-Description:
+- **Project: Application for sales planning**
+ - **Task(s):** Creation of an application to generate plan opportunities (outside the standard opportunity object) based on machine configurations of the external system 'SPM' (product configurator), project management, creation of solution architecture, development, QA, testing, data migration
+ - **Description:
 Michael Haase developed an application for sales planning as a solution architect. In addition to recording the requirements of the business unit, he developed the technical architecture and implemented it by introducing a suitable data model and mapping large parts of the planning process through automation and user queries. By planning and implementing a suitable visibility concept, he also ensured that only responsible employees had access to data and functionality.
-Another part of the project was the creation of data snapshots at certain points in the sales process to be able to make comparisons between the plan and the actual result at a later date. To this end, he developed reports and dashboards and made them available to the relevant user groups via corresponding visibility rules.
-Technologies used:
-Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Organization Wide Defaults, Sharing Rules, Lightning Record Pages, Reports, Dashboards, Google Diagrams
+Another part of the project was the creation of data snapshots at certain points in the sales process to be able to make comparisons between the plan and the actual result at a later date. To this end, he developed reports and dashboards and made them available to the relevant user groups via corresponding visibility rules.**
+ - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Organization Wide Defaults, Sharing Rules, Lightning Record Pages, Reports, Dashboards, Google Diagrams
 
 
 
