@@ -93,11 +93,8 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 | Real Estate                 | 1     | K     |
 | Banking and investment banking | 9   | M     |
 | Automotive                  | 2     | A     |
-| **Project activities**      |       |       |
-
-
-| Activity                    | Years | Grade |
 |-----------------------------|-------|-------|
+| **Project activities**      |       |       |
 | Functional and technical solution design | 10 | M |
 | IT conception               | 10    | M     |
 | Business process and requirements analysis | 10 | M |
@@ -110,17 +107,11 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 | Change and incident management | 8 | K     |
 | Application management      | 10    | K     |
 | Release management          | 4     | K     |
-
-**Project management methods**
-
-| Method                      | Years | Grade |
 |-----------------------------|-------|-------|
+| **Project management methods**     |       |       |
 | Agile project management (SCRUM) | 8 | K     |
-
-**Salesforce**
-
-| Product/Skill               | Years | Grade |
 |-----------------------------|-------|-------|
+| **Salesforce**     |       |       |
 | Sales Cloud                 | 15    | M     |
 | Service Cloud               | 7     | K     |
 | Field Service Lightning     | 1     | K     |
@@ -128,11 +119,8 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
 | Flow Builder                | 12    | M     |
 | APEX programming            | 8     | K     |
 | Reports and dashboards      | 15    | M     |
-
-**DevOps**
-
-| Tool/Skill                  | Years | Grade |
 |-----------------------------|-------|-------|
+| **DevOps**    |       |       |
 | Copado DevOps               | 2     | K     |
 | Github                      | 2     | E     |
 | Continuous Integration / Continuous Delivery | 1 | K     |
