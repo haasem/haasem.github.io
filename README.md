@@ -197,90 +197,50 @@ This enabled the sales manager to identify and generate new opportunities based 
 
 - **Project: Automated service notifications and generation of service opportunities**
   - **Task(s):** Project management, requirements gathering, solution design, development, testing
-  - **Description:** As a solution architect, Michael Haase developed various functionalities to send notifications to project engineers based on predefined sheet counter readings (counter readings that require a service interval) in order to proactively offer maintenance services to customers. At the same time, service opportunities are created and assigned to regional service managers in Koenig & Bauer agencies so that they can process the opportunities further. As part of this project, Michael Haase was responsible for recording the requirements, creating the architecture of the solution and implementing it successfully.
+  - **Description:** As a solution architect, Michael Haase developed various functionalities to send notifications to project engineers based on predefined sheet counter readings (counter readings that require a service interval) in order to proactively offer maintenance services to customers. At the same time, service opportunities are created and assigned to regional service managers in Koenig & Bauer agencies so that they can process the opportunities further. As part of this project, Michael Haase was responsible for recording the requirements, creating the architecture of the solution, and implementing it successfully.
 -- **Technologies used:** Schema Builder (data model), Process Builder, Flow Builder, Campaigns, Email, Google Diagrams
 
-
-
-
-Project:
-Implementation of a partner community for external agencies to conduct customer satisfaction surveys
-Task(s):
-Project management, requirements gathering, solution design, development, business intelligence with reports and dashboards, stakeholder management
-Description:
-As Solution Architect, Michael Haase set up a partner community to enable external agencies (telephone agents) to conduct customer satisfaction surveys on behalf of Koenig & Bauer and store the results in Salesforce.
+- **Project: Implementation of a partner community for external agencies to conduct customer satisfaction surveys**
+  - **Task(s):** Project management, requirements gathering, solution design, development, business intelligence with reports and dashboards, stakeholder management
+  - **Description:** As Solution Architect, Michael Haase set up a partner community to enable external agencies (telephone agents) to conduct customer satisfaction surveys on behalf of Koenig & Bauer and store the results in Salesforce.
 He managed the project, analyzed the requirements, and created the solution design. In addition to the Partner Portal functionality, the 'Clicktools' software (now SAP Callidus Cloud) was also used for the implementation, which Mr Haase integrated with Salesforce via an interface.
 In Clicktools, Mr. Haase created telephone scripts that guided the telephone agent through the customer inquiry and in which the customer's answers could be noted immediately. This data was then transferred to Salesforce via the interface.
 Mr Haase also created reports and dashboards to provide the service and sales directors with a visual and transparent evaluation.
-Technologies used:
-Salesforce Sales Cloud, Salesforce Partner Community, Clicktools, Low Code Integration, Visio, Reports, Dashboards
+  - **Technologies used:** Salesforce Sales Cloud, Salesforce Partner Community, Clicktools, Low Code Integration, Visio, Reports, Dashboards
 
-
-
-
-Project:
-Partner Community for Ink Vendors
-Task(s):
-Project management, requirements gathering, solution design, development, QA, testing, data migration
-Description:
-As a solution architect, Michael Haase implemented a partner community for color suppliers of Koenig & Bauer AG. As part of the project, Mr Haase took over the project management, carried out the requirements analysis, and created the solution design. A special challenge was to display to the ink suppliers only those machines of a customer that are currently under construction and correspond to special parameters for which the inks of an ink supplier are eligible. The standard object 'Asset', which would normally be considered, could not be used due to this requirement. Mr Haase succeeded in developing a solution design that met the requirements and data security.
+- **Project: Partner Community for Ink Vendors**
+  - **Task(s):** Project management, requirements gathering, solution design, development, QA, testing, data migration
+  - **Description: As a solution architect, Michael Haase implemented a partner community for color suppliers of Koenig & Bauer AG. As part of the project, Mr Haase took over the project management, carried out the requirements analysis, and created the solution design. A special challenge was to display to the ink suppliers only those machines of a customer that are currently under construction and correspond to special parameters for which the inks of an ink supplier are eligible. The standard object 'Asset', which would normally be considered, could not be used due to this requirement. Mr Haase succeeded in developing a solution design that met the requirements and data security.
 This made it possible to give color suppliers access only to relevant machine data and production schedules so that they could deliver colors on time for machine handover.
-Technologies used:
-Salesforce Sales Cloud, Salesforce Partner Community, Schema Builder (data model), Sharing Rules, Flow Designer, Process Builder
+  - **Technologies used:** Salesforce Sales Cloud, Salesforce Partner Community, Schema Builder (data model), Sharing Rules, Flow Designer, Process Builder
 
-
-
-
-Project:
-Creation of a solution to fulfill the requirements of the GDPR (General Data Protection Regulation)
-Task(s):
-Project management, requirements gathering, solution design, development, QA, testing, data migration
-Description:
-In the role of solution architect, Michael Haase developed a solution to fulfill the GDPR requirements. In close cooperation with the compliance department and the sales directors, he fully captured the requirements and developed a solution design that continues to ensure the comfortable work of the sales and service employees, but also created sufficient data transparency to meet the requirements of the GDPR.
+- **Project: Creation of a solution to fulfill the requirements of the GDPR (General Data Protection Regulation)**
+  - **Task(s):** Project management, requirements gathering, solution design, development, QA, testing, data migration
+  - **Description:** In the role of solution architect, Michael Haase developed a solution to fulfill the GDPR requirements. In close cooperation with the compliance department and the sales directors, he fully captured the requirements and developed a solution design that continues to ensure the comfortable work of the sales and service employees, but also created sufficient data transparency to meet the requirements of the GDPR.
 Mr Haase implemented the solution design and conducted employee training.
-Technologies used:
-Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Process Builder, Salesforce Inspector, Google Diagrams
+  - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Process Builder, Salesforce Inspector, Google Diagrams
 
-
-
-
-Project:
-Approval process for the sale of special machine functions/parameters and technology partnerships
-Task(s):
-Project management, requirements gathering, solution design, development, QA, testing, data migration
-Description:
-In his role as Solution Architect, Michael Haase designed an approval process for the sale of special machine functions/parameters and the agreement of technology partnerships. He captured the business process requirements from sales and quality assurance, developed the solution design, and implemented it using various Salesforce technologies.
+- **Project: Approval process for the sale of special machine functions/parameters and technology partnerships**
+  - **Task(s):** Project management, requirements gathering, solution design, development, QA, testing, data migration
+  - **Description:** In his role as Solution Architect, Michael Haase designed an approval process for the sale of special machine functions/parameters and the agreement of technology partnerships. He captured the business process requirements from sales and quality assurance, developed the solution design, and implemented it using various Salesforce technologies.
 Thanks to the solution created by Michael Haase, we were able to gain significantly more transparency about customer requirements and increase sales success and customer satisfaction.
-Technologies used:
-Salesforce Sales Cloud, Approval Processes, Email automation, Reports, Dashboards
+  - *Technologies used:** Salesforce Sales Cloud, Approval Processes, Email automation, Reports, Dashboards
 
-
-
-
-Project:
-Synchronization of quotes between external product configurator 'SPM' and Salesforce
-Task(s):
-Project management, requirements gathering, solution design, development, QA, testing, data migration
-Description:
-As Solution Architect, Michael Haase implemented the connection between Salesforce and the Koenig & Bauer product configurator 'SPM' via the middleware 'Cache'.
+- **Project: Synchronization of quotes between external product configurator 'SPM' and Salesforce**
+  - **Task(s):** Project management, requirements gathering, solution design, development, QA, testing, data migration
+  - **Description:** As Solution Architect, Michael Haase implemented the connection between Salesforce and the Koenig & Bauer product configurator 'SPM' via the middleware 'Cache'.
 He recorded the sales department's requirements for the business process and data flow and developed the architecture for the required solution.
 He established an end-to-end solution for user interaction with Salesforce and SPM and reliable data exchange between Salesforce and SPM via the 'Cache' middleware.
 This made the opportunity pipeline of the 'Sheetfed' business unit much more transparent through the data enrichment achieved and increased sales success, as relevant sales information became more readily available.
-Technologies used:
-Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, APEX, Middleware ‘Cache’, Visio
-
-
-
+  - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, APEX, Middleware ‘Cache’, Visio
 
 **03/2013 - 04/2015 BCS Broker Credit Service**
-
 - **Project: Salesforce Implementation**
   - **Task(s):** Implementation of Salesforce for the sales and service departments
   - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing user training.
   - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
 
 **09/2010 - 02/2013 OAO Otkritie Bank**
-
 - **Project: CRM Implementation**
   - **Task(s):** Implementation of a CRM system for managing client relationships
   - **Description:** Michael Haase led the implementation of a CRM system at OAO Otkritie Bank. His responsibilities included requirement gathering, solution design, implementation, and user training. The CRM system improved the bank's ability to manage client relationships and streamline operations.
