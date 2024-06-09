@@ -190,66 +190,15 @@ He recorded the requirements of the stakeholders and developed the technical sol
 This enabled the sales manager to identify and generate new opportunities based on machine models, age, and specific features of the installed base and assign them to the responsible sales employees in the sales regions.
  - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Salesforce Inspektor, Reports, Dashboards, Sharing Rules
 
+- **Project: Implementation of the customer journey in the demo center**
+  - **Task(s):** Requirements analysis, solution design, development, configuration, QA, testing, Creation of merge templates
+  - **Description:** As a solution architect, Michael Haase optimized the customer journey in the demo center. He carried out the requirements analysis and created the technical solution design to be able to conveniently record specific information from print demos in Salesforce and then provide the customer with a brochure containing all the details of the demo. In this context, he implemented the additional software 'Conga Composer' and configured important functions of the software, which were then available to the demo center to conveniently merge and output documents with data from Salesforce.
+  - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Conga Composer, Microsoft Word
 
-
-
-
-
-
-
-
-
-
-
-**03/2013 - 04/2015 BCS Broker Credit Service**
-
-- **Project: Salesforce Implementation**
-  - **Task(s):** Implementation of Salesforce for the sales and service departments
-  - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing user training.
-  - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
-
-**09/2010 - 02/2013 OAO Otkritie Bank**
-
-- **Project: CRM Implementation**
-  - **Task(s):** Implementation of a CRM system for managing client relationships
-  - **Description:** Michael Haase led the implementation of a CRM system at OAO Otkritie Bank. His responsibilities included requirement gathering, solution design, implementation, and user training. The CRM system improved the bank's ability to manage client relationships and streamline operations.
-  - **Technologies used:** Salesforce Sales Cloud, Data Migration Tools, Schema Builder, Flow Builder
-
-- **Project: Business Process Optimization**
-  - **Task(s):** Optimization of business processes using Salesforce
-  - **Description:** Michael Haase optimized various business processes at OAO Otkritie Bank using Salesforce. He designed and implemented workflows and automation to improve efficiency and reduce manual tasks.
-  - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Schema Builder
-
-
-
-
-
-
-
-
-
-
-
-Project:
-Implementation of the customer journey in the demo center
-Task(s):
-Requirements analysis, solution design, development, configuration, QA, testing, Creation of merge templates
-Description:
-As a solution architect, Michael Haase optimized the customer journey in the demo center. He carried out the requirements analysis and created the technical solution design to be able to conveniently record specific information from print demos in Salesforce and then provide the customer with a brochure containing all the details of the demo. In this context, he implemented the additional software 'Conga Composer' and configured important functions of the software, which were then available to the demo center to conveniently merge and output documents with data from Salesforce.
-Technologies used:
-Salesforce Sales Cloud, Schema Builder (data model), Conga Composer, Microsoft Word
-
-
-
-
-Project:
-Automated service notifications and generation of service opportunities
-Task(s):
-Project management, requirements gathering, solution design, development, testing
-Description:
-As a solution architect, Michael Haase developed various functionalities to send notifications to project engineers based on predefined sheet counter readings (counter readings that require a service interval) in order to proactively offer maintenance services to customers. At the same time, service opportunities are created and assigned to regional service managers in Koenig & Bauer agencies so that they can process the opportunities further. As part of this project, Michael Haase was responsible for recording the requirements, creating the architecture of the solution and implementing it successfully.
-Technologies used:
-Schema Builder (data model), Process Builder, Flow Builder, Campaigns, Email, Google Diagrams
+- **Project: Automated service notifications and generation of service opportunities**
+  - **Task(s):** Project management, requirements gathering, solution design, development, testing
+  - **Description:** As a solution architect, Michael Haase developed various functionalities to send notifications to project engineers based on predefined sheet counter readings (counter readings that require a service interval) in order to proactively offer maintenance services to customers. At the same time, service opportunities are created and assigned to regional service managers in Koenig & Bauer agencies so that they can process the opportunities further. As part of this project, Michael Haase was responsible for recording the requirements, creating the architecture of the solution and implementing it successfully.
+-- **Technologies used:** Schema Builder (data model), Process Builder, Flow Builder, Campaigns, Email, Google Diagrams
 
 
 
@@ -323,28 +272,21 @@ Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, APEX, Middlew
 
 
 
-11/2013 - 04/2015
-Broker Credit Service (Moscow)
-Project:
-Implementation of Salesforce platform, global rollout
-Task(s):
-Project management, requirements gathering, business process design, solution design, implementation and development, data migration, testing, support and training
-Description:
-As a solution architect, Michael Haase introduced the Salesforce platform (Force.com) to support sales and service. The first focus was on the implementation of the business process for customer onboarding (document request, document review, compliance check, risk assessment, allocation of trading limits).
-Mr Haase took over the project management and carried out the requirements analysis. He created the solution design and implemented it quickly. 
-Thanks to the solution created by Mr Haase, the onboarding process could finally be presented transparently. The time from the application to open a securities account to the actual allocation of trading limits and the start of trading by the customer was reduced by 60%.
-Technologies used:
-Salesforce Platform Force.com, Visio, Excel, Workflow Rules, Data Loader
+**03/2013 - 04/2015 BCS Broker Credit Service**
 
-01/2010 - 10/2013
-OAO Otkritie Bank (Moscow)
-Project:
-Implementation of Salesforce platform, global rollout
-Task(s):
-Project management, analysis, and documentation of business processes, development, testing, and user training
-Description:
-Michael Haase was responsible as a technical consultant for the general implementation of the Salesforce system in various departments of OAO Otkritie Bank. 
-He carried out the initial installation of Salesforce and implemented various business processes for the Sales, Client Service, Compliance, and Risk departments.
-He also implemented additional tools for FCA compliance requirements.
-Technologies used:
-Salesforce Sales Cloud, Flow Builder, Workflow Rules, Approval Prozesse, Excel, Data Loader
+- **Project: Salesforce Implementation**
+  - **Task(s):** Implementation of Salesforce for the sales and service departments
+  - **Description:** As a Salesforce Solution Architect, Michael Haase led the implementation of Salesforce for the sales and service departments at BCS Broker Credit Service. He was responsible for the end-to-end project, from gathering requirements to designing the solution, implementing it, and providing user training.
+  - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
+
+**09/2010 - 02/2013 OAO Otkritie Bank**
+
+- **Project: CRM Implementation**
+  - **Task(s):** Implementation of a CRM system for managing client relationships
+  - **Description:** Michael Haase led the implementation of a CRM system at OAO Otkritie Bank. His responsibilities included requirement gathering, solution design, implementation, and user training. The CRM system improved the bank's ability to manage client relationships and streamline operations.
+  - **Technologies used:** Salesforce Sales Cloud, Data Migration Tools, Schema Builder, Flow Builder
+
+- **Project: Business Process Optimization**
+  - **Task(s):** Optimization of business processes using Salesforce
+  - **Description:** Michael Haase optimized various business processes at OAO Otkritie Bank using Salesforce. He designed and implemented workflows and automation to improve efficiency and reduce manual tasks.
+  - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Schema Builder
