@@ -241,7 +241,7 @@ This made the opportunity pipeline of the 'Sheetfed' business unit much more tra
   - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, Data Migration Tools, Schema Builder, Flow Builder
 
 **09/2010 - 02/2013 OAO Otkritie Bank**
-- **Project: CRM Implementation**
+- **Project: Salesforce Sales Cloud Implementation**
   - **Task(s):** Implementation of a CRM system for managing client relationships
   - **Description:** Michael Haase led the implementation of a CRM system at OAO Otkritie Bank. His responsibilities included requirement gathering, solution design, implementation, and user training. The CRM system improved the bank's ability to manage client relationships and streamline operations.
   - **Technologies used:** Salesforce Sales Cloud, Data Migration Tools, Schema Builder, Flow Builder
