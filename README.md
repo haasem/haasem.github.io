@@ -189,6 +189,24 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
   - **Description:** Michael Haase integrated Salesforce with several external systems, including the company's ERP and marketing automation tools. He used Salesforce's API capabilities to ensure seamless data flow between the systems, improving data accuracy and operational efficiency.
   - **Technologies used:** Salesforce Sales Cloud, Salesforce Service Cloud, APIs, Integration Tools, Schema Builder
 
+- **Project: Application for sales planning**
+ - **Task(s):** Creation of an application to generate plan opportunities (outside the standard opportunity object) based on machine configurations of the external system 'SPM' (product configurator), project management, creation of solution architecture, development, QA, testing, data migration
+ - **Description:** Michael Haase developed an application for sales planning as a solution architect. In addition to recording the requirements of the business unit, he developed the technical architecture and implemented it by introducing a suitable data model and mapping large parts of the planning process through automation and user queries. By planning and implementing a suitable visibility concept, he also ensured that only responsible employees had access to data and functionality.
+Another part of the project was the creation of data snapshots at certain points in the sales process to be able to make comparisons between the plan and the actual result at a later date. To this end, he developed reports and dashboards and made them available to the relevant user groups via corresponding visibility rules.**
+ - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Organization Wide Defaults, Sharing Rules, Lightning Record Pages, Reports, Dashboards, Google Diagrams
+
+
+
+
+
+
+
+
+
+
+
+
+
 **09/2010 - 02/2013 OAO Otkritie Bank**
 
 - **Project: CRM Implementation**
@@ -201,12 +219,7 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
   - **Description:** Michael Haase optimized various business processes at OAO Otkritie Bank using Salesforce. He designed and implemented workflows and automation to improve efficiency and reduce manual tasks.
   - **Technologies used:** Salesforce Sales Cloud, Flow Builder, Schema Builder
 
-- **Project: Application for sales planning**
- - **Task(s):** Creation of an application to generate plan opportunities (outside the standard opportunity object) based on machine configurations of the external system 'SPM' (product configurator), project management, creation of solution architecture, development, QA, testing, data migration
- - **Description:
-Michael Haase developed an application for sales planning as a solution architect. In addition to recording the requirements of the business unit, he developed the technical architecture and implemented it by introducing a suitable data model and mapping large parts of the planning process through automation and user queries. By planning and implementing a suitable visibility concept, he also ensured that only responsible employees had access to data and functionality.
-Another part of the project was the creation of data snapshots at certain points in the sales process to be able to make comparisons between the plan and the actual result at a later date. To this end, he developed reports and dashboards and made them available to the relevant user groups via corresponding visibility rules.**
- - **Technologies used:** Salesforce Sales Cloud, Schema Builder (data model), Flow Builder, Organization Wide Defaults, Sharing Rules, Lightning Record Pages, Reports, Dashboards, Google Diagrams
+
 
 
 
