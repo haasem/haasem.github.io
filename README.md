@@ -3,7 +3,7 @@
 </p>
 
 # Consultant Profile
-Michael Haase - [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com) - +49 151 40173885
+Michael Haase - [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com) - +49 351 4288 0909
 
 ## Introduction
 
