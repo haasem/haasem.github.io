@@ -13,7 +13,7 @@ Certified Salesforce consultant and architect—with customer empathy, communica
 
 Available immediately from 01.06.2024 - digital remote working is preferred, with the option of holding individual appointments or workshops on-site.
 
-My hourly rate is 95€ per hour - traveling expenses against invoice.
+My daily rate is €1045 - traveling expenses against invoice.
 
 ## Short Overview
 
@@ -24,6 +24,7 @@ My hourly rate is 95€ per hour - traveling expenses against invoice.
   - German (native)
   - English (fluent)
   - Russian (fluent)
+  - Spanish (basic)
 - **Place of living:** Panama
 - **Telefon/Whatsapp:** +49 151 40173885
 - **Email:** [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
