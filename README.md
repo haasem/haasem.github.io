@@ -13,8 +13,6 @@ Certified Salesforce consultant and architect—with customer empathy, communica
 
 Available immediately from 01.06.2024 - digital remote working is preferred, with the option of holding individual appointments or workshops on-site.
 
-My daily rate is €1045 - traveling expenses against invoice.
-
 ## Short Overview
 
 - **Name:** Michael Haase
