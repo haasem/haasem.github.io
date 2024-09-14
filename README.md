@@ -24,7 +24,7 @@ Available immediately full-time or part-time from 01.09.2024 - digital remote wo
   - Russian (fluent)
   - Spanish (basic)
 - **Place of living:** Panama
-- **Telefon:** +49 351 4288 0909
+- **Telefon:** +507 62949481 / +49 351 4288 0909
 - **Whatsapp:** +49 151 40173885
 - **Email:** [michael@michaelhaaseconsulting.com](mailto:michael@michaelhaaseconsulting.com)
 - **Website:** [www.michaelhaaseconsulting.com](https://michaelhaaseconsulting.com)
