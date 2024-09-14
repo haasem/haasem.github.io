@@ -11,7 +11,7 @@ Dynamic entrepreneur and consultant with 15 years of experience in the Salesforc
 
 Certified Salesforce consultant and architect—with customer empathy, communication strength, and professional performance.
 
-Available immediately from 01.06.2024 - digital remote working is preferred, with the option of holding individual appointments or workshops on-site.
+Available immediately full-time or part-time from 01.09.2024 - digital remote working is preferred, with the option of holding individual appointments or workshops on-site.
 
 ## Short Overview
 
