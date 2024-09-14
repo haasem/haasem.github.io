@@ -68,6 +68,7 @@ Available immediately from 01.06.2024 - digital remote working is preferred, wit
 
 ## Certifications
 
+- Salesforce Business Analyst
 - Salesforce Platform App Builder
 - Salesforce Force.com Developer
 - Salesforce Sales Cloud Consultant
