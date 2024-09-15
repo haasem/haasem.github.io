@@ -48,7 +48,7 @@ Available immediately full-time or part-time - digital remote working is preferr
 
 ## Video Presentation
 
-[The key aspects of my work](https://bit.ly/key-aspects-of-my-work)
+[The key aspects of my work](https://michaelhaaseconsulting.com/consultantprofile-english)
 
 ## Brief Profile Description
 
